@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://debadityadutta.github.io/funngro-revamp/sitemap.xml
